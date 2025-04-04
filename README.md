@@ -20,3 +20,5 @@ The goal of this task is to develop a chatbot using Python that can process user
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ff2266cd-cca8-499c-b85d-d91997d9ed98)
+
